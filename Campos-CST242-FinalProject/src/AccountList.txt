@@ -1,0 +1,37 @@
+ASSET-ACCOUNT::Cash
+ASSET-ACCOUNT::Inventory
+ASSET-ACCOUNT::Account Receivables
+ASSET-ACCOUNT::Allowance for Doubtful Accounts
+ASSET-ACCOUNT::Interest Receivables
+ASSET-ACCOUNT::Notes Receivables
+ASSET-ACCOUNT::Prepaid Insurance
+ASSET-ACCOUNT::Supplies
+ASSET-ACCOUNT::Equipment
+ASSET-ACCOUNT::Accumulated-Depreciation
+ASSET-ACCOUNT::Buildings
+ASSET-ACCOUNT::Land
+
+LIABILITY-ACCOUNT::Accounts Payable
+LIABILITY-ACCOUNT::Notes Payable
+LIABILITY-ACCOUNT::Interest Payable
+LIABILITY-ACCOUNT::Unearned Service Revenue
+
+OWNERS-EQUITY-ACCOUNT::Owner's Capital
+OWNERS-EQUITY-ACCOUNT::Owner's Drawings
+
+REVENUE-ACCOUNT::Interest Revenue
+REVENUE-ACCOUNT::Rent Revenue
+REVENUE-ACCOUNT::Sales Discount
+REVENUE-ACCOUNT::Sales Returns & Allowances
+REVENUE-ACCOUNT::Sales Revenue
+REVENUE-ACCOUNT::Service Revenue
+
+EXPENSE-ACCOUNT::Bad Debit Expense
+EXPENSE-ACCOUNT::Cost of Goods Sold
+EXPENSE-ACCOUNT::Depreciation Expense
+EXPENSE-ACCOUNT::Insurance Expense
+EXPENSE-ACCOUNT::Interest Expense
+EXPENSE-ACCOUNT::Rent Expense
+EXPENSE-ACCOUNT::Salaries & Wages Expense
+EXPENSE-ACCOUNT::Supplies Expense
+EXPENSE-ACCOUNT::Utilities Expense

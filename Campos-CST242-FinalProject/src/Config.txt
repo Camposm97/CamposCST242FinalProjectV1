@@ -1,0 +1,12 @@
+TITLE::Accountant's General Journal
+VERSION::V1.0
+LICENSED TO::Camposm's Software
+DATABASE::accounting101
+USER::root
+PASSWORD::CST171
+PURPOSE::The purpose of the program is to account for sole proprietorship
+PURPOSE:: business transactions involving currency by using
+PURPOSE:: the double entry system. 
+PURPOSE:: The program enables to view your transactions to see what
+PURPOSE:: you have input so far and construct a trail balance to prove
+PURPOSE:: that everything you entered is correct.

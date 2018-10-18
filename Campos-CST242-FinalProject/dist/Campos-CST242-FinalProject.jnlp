@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Campos-CST242-FinalProject.jnlp">
+  <information>
+    <title>Campos-CST242-FinalProject</title>
+    <vendor>Darkp</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Campos-CST242-FinalProject.jar" size="29864" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.44-bin.jar" size="999635" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Campos-CST242-FinalProject" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="CamposCST242FinalProject"  name="Campos-CST242-FinalProject" />
+  <update check="always"/>
+</jnlp>
